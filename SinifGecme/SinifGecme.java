@@ -80,7 +80,7 @@ public class SinifGecme {
 
                                 Double ort=((mat+fiz+kim+tur+biy)/5);
 
-                                    if(ort>60){
+                                    if(ort>=55){
 
                                     System.out.println("ortalamanız"+ort);
 
@@ -95,5 +95,5 @@ public class SinifGecme {
                                     System.out.println("Kaldınız");
                                     
                                     }
-                                    
+
                                 }}
